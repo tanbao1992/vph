@@ -1,0 +1,122 @@
+{
+	"jingxuan": [
+		{
+			"large_img": "http://c.vpimg1.com/upcb/2016/08/10/14/54557388.jpg",
+			"brand_img": "http://c.vpimg1.com/upcb/2016/08/10/139/54558207.png",
+			"description": "GUESS年轻性感 与众不同",
+			"sale": "跨专场,购物满498减60,满598减80...",
+			"url": "http://list.vip.com/819919.html?ff=6|11|1|1",
+			"detail": [
+				{
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/483/100/303787891630100483/0/W35K42W3IY0-JTMU-5.jpg",
+					"price": "259"
+				}, {
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/983/802/304069366606802983/0/Q51K00K3R60-BRKG-5.jpg",
+					"price": "259"
+				}, {
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/502/691/290558567724691502/0/Q51K04Z0WD0-JBMU-5.jpg",
+					"price": "280"
+				}
+			]
+		}, {
+			"large_img": "http://c.vpimg1.com/upcb/2016/08/10/160/59211805.jpg",
+			"brand_img": "http://c.vpimg1.com/upcb/2016/08/10/139/54558207.png",
+			"description": "GUESS年轻性感 与众不同",
+			"sale": "跨专场,购物满498减60,满598减80...",
+			"url": "http://list.vip.com/819919.html?ff=6|11|1|1",
+			"detail": [
+				{
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/483/100/303787891630100483/0/W35K42W3IY0-JTMU-5.jpg",
+					"price": "259"
+				}, {
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/983/802/304069366606802983/0/Q51K00K3R60-BRKG-5.jpg",
+					"price": "259"
+				}, {
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/502/691/290558567724691502/0/Q51K04Z0WD0-JBMU-5.jpg",
+					"price": "280"
+				}
+			]
+		}, {
+			"large_img": "http://c.vpimg1.com/upcb/2016/08/11/85/32086483.jpg",
+			"brand_img": "http://c.vpimg1.com/upcb/2016/08/10/139/54558207.png",
+			"description": "GUESS年轻性感 与众不同",
+			"sale": "跨专场,购物满498减60,满598减80...",
+			"url": "http://list.vip.com/819919.html?ff=6|11|1|1",
+			"detail": [
+				{
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/483/100/303787891630100483/0/W35K42W3IY0-JTMU-5.jpg",
+					"price": "259"
+				}, {
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/983/802/304069366606802983/0/Q51K00K3R60-BRKG-5.jpg",
+					"price": "259"
+				}, {
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/502/691/290558567724691502/0/Q51K04Z0WD0-JBMU-5.jpg",
+					"price": "280"
+				}
+			]
+		}, {
+			"large_img": "http://d.vpimg1.com/upcb/2016/08/11/143/32467077.jpg",
+			"brand_img": "http://c.vpimg1.com/upcb/2016/08/10/139/54558207.png",
+			"description": "GUESS年轻性感 与众不同",
+			"sale": "跨专场,购物满498减60,满598减80...",
+			"url": "http://list.vip.com/819919.html?ff=6|11|1|1",
+			"detail": [
+				{
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/483/100/303787891630100483/0/W35K42W3IY0-JTMU-5.jpg",
+					"price": "259"
+				}, {
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/983/802/304069366606802983/0/Q51K00K3R60-BRKG-5.jpg",
+					"price": "259"
+				}, {
+					"img": "http://a.vpimg2.com/upload/merchandise/pdc/502/691/290558567724691502/0/Q51K04Z0WD0-JBMU-5.jpg",
+					"price": "280"
+				}
+			]
+		}
+	],
+	"nvzhuang": [
+		{
+			"img": "http://c.vpimg1.com/upcb/2016/08/10/198/39037238_570x273_90.jpg",
+
+			"validateDate": "2016-8-15",
+			"url": "http://act.vip.com/27507.html"
+		}, {
+			"img": "http://c.vpimg1.com/upcb/2016/08/10/198/39037238_570x273_90.jpg",
+
+			"validateDate": "2016-8-15",
+			"url": "http://act.vip.com/27507.html"
+		}, {
+			"img": "http://c.vpimg1.com/upcb/2016/08/10/198/39037238_570x273_90.jpg",
+
+			"validateDate": "2016-8-15",
+			"url": "http://act.vip.com/27507.html"
+		}, {
+			"img": "http://c.vpimg1.com/upcb/2016/08/10/198/39037238_570x273_90.jpg",
+
+			"validateDate": "2016-8-15",
+			"url": "http://act.vip.com/27507.html"
+		}, {
+			"img": "http://c.vpimg1.com/upcb/2016/08/10/198/39037238_570x273_90.jpg",
+
+			"validateDate": "2016-8-15",
+			"url": "http://act.vip.com/27507.html"
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
